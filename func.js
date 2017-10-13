@@ -18,6 +18,6 @@ function AlteraEstadoRele(){
 	else {
         document.getElementById("estado2").innerHTML="0";
         document.getElementById("rele2").innerHTML="<div class='rele_desligado2'></div>";
-        document.getElementById("botao2").innerHTML="<a href='/?ligar' class='botao2'>Ligar Rele2</a>";
+        document.getElementById("botao2").innerHTML="<a href='/?ligar2' class='botao2'>Ligar Rele2</a>";
     }
 }
